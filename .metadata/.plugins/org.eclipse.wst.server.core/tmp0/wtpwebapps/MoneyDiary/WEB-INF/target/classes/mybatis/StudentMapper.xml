@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="students" >
+		
+		<select id="studentList" resultType="Score.mng.student.Vo.StudentVo" >
+			<!-- 학생리스트
+			"SELECT * FROM STUDENTS" -->
+			SELECT * FROM STUDENTS
+		</select>
+		
+		<select id="scoreList" resultType="Score.mng.student.Vo.ScoreVo" >
+			<!-- 학생리스트
+			"SELECT * FROM STUDENTS" -->
+			SELECT * FROM SCORES
+		</select>
+		 
+</mapper>

@@ -1,0 +1,4 @@
+127.0.0.1 - - [02/Jul/2021:11:22:55 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [02/Jul/2021:11:22:56 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/auth-normal-sign-in.jsp HTTP/1.1" 200 10677
+0:0:0:0:0:0:0:1 - - [02/Jul/2021:11:22:56 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/assets/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Jul/2021:11:22:56 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/assets/images/favicon.ico HTTP/1.1" 404 893

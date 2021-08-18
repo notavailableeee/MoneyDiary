@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="Score.mng.Board" >
+
+	<select id="guestList" resultType="PKG_Score.Dao.GuestVo">
+		SELECT * FROM GUEST
+	</select>
+
+	<select id="boardList" resultType="Score.mng.VO.BoardVO">
+		SELECT * FROM BOARDS WHERE IDX = #{idx}
+	</select>
+
+	<!-- 
+	<resultMap type="Hashmap" id="pBoardList"></resultMap>
+	<select id="procBoardList" statementType="CALLABLE">
+	{CALL PKG_BOARD.PROC_BOARD_SEL(#{GBN},#{IDX},
+	#{O_CUR, mode=out, jdbcType=CURSOR, javaType=ResultSet, resultMap=pBoardList}
+	)
+	}
+	</select>
+	--> 
+
+	<resultMap id="boardMap" type="hashmap"/>
+
+	<select id="procBoardList" statementType="CALLABLE" parameterType="hashmap">
+		{CALL PKG_BOARD.PROC_BOARD_SEL(
+		#{GBN mode=IN, jdbcType=VARCHAR, javaType=String},
+		#{IDX mode=IN, jdbcType=VARCHAR, javaType=String},
+		#{O_CUR, mode=OUT, jdbcType=CURSOR, javaType=ResultSet, resultMap=boardMap}
+		)}
+	</select>
+
+</mapper>
+

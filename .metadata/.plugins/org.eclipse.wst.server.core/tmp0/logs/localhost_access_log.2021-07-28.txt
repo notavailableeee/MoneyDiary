@@ -1,0 +1,8 @@
+127.0.0.1 - - [28/Jul/2021:15:58:07 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [28/Jul/2021:15:58:07 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/auth-normal-sign-in.jsp HTTP/1.1" 200 10677
+0:0:0:0:0:0:0:1 - - [28/Jul/2021:15:58:07 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/assets/images/favicon.ico HTTP/1.1" 404 893
+0:0:0:0:0:0:0:1 - - [28/Jul/2021:15:58:14 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/assets/js/popper.js/popper.min.js.map HTTP/1.1" 404 909
+0:0:0:0:0:0:0:1 - - [28/Jul/2021:15:58:14 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/assets/js/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 404 919
+0:0:0:0:0:0:0:1 - - [28/Jul/2021:15:58:14 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/assets/pages/waves/js/waves.min.js.map HTTP/1.1" 404 914
+0:0:0:0:0:0:0:1 - - [28/Jul/2021:15:58:14 +0900] "GET /MoneyDiary/MoneyDiary/material_able-main/assets/css/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 404 922
+0:0:0:0:0:0:0:1 - - [28/Jul/2021:16:02:54 +0900] "GET /COVID-19/admin_sign_in.jsp HTTP/1.1" 404 822
