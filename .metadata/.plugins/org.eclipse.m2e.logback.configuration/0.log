@@ -223,3 +223,5 @@
 2021-08-18 11:37:37,510 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
 2021-08-18 11:37:39,305 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-08-18 11:37:39,307 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 11:37:39,308 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 11:37:39,309 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
