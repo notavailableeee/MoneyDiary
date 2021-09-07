@@ -225,3 +225,273 @@
 2021-08-18 11:37:39,307 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
 2021-08-18 11:37:39,308 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-08-18 11:37:39,309 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 19:40:54,846 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-18 19:40:57,914 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:40:57,916 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 19:40:57,919 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:40:57,920 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 19:41:11,964 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:41:11,965 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 19:41:11,966 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:41:11,967 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 19:46:47,184 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:46:47,187 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 19:46:47,187 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:46:47,189 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 19:47:15,218 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:47:15,219 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 19:47:15,220 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:47:15,221 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 19:52:21,295 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:52:21,296 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 19:52:21,297 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:52:21,297 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 19:53:02,756 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MoneyDiary:MoneyDiary:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MoneyDiary\pom.xml.
+2021-08-18 19:53:03,527 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:53:03,528 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 19:53:03,531 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:53:03,532 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 19:53:03,533 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MoneyDiary
+2021-08-18 19:53:03,533 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MoneyDiary
+2021-08-18 19:53:03,563 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:53:28,980 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:53:28,981 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 19:53:28,982 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 19:53:28,983 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 20:02:23,904 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 20:02:23,905 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 20:02:23,906 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 20:02:23,906 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 20:04:37,439 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 20:04:37,440 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 20:04:37,442 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 20:04:37,443 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 20:04:51,102 [Worker-30: Cleaning selected projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MoneyDiary
+2021-08-18 20:04:51,266 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 20:04:51,267 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-08-18 20:04:51,269 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 20:04:51,270 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-08-18 20:04:51,270 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MoneyDiary
+2021-08-18 20:04:51,270 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MoneyDiary
+2021-08-18 20:04:51,282 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-18 20:37:17,011 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-09-02 11:43:35,109 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-02 11:43:36,082 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2021-09-02 11:44:49,317 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:44:49,318 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-09-02 11:44:49,320 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:44:49,320 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-09-02 11:45:03,865 [Worker-18: Updating Maven dependencies for project 'MD_Spring_ver'] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\smart\eclipse-workspace.java\MD_Spring_ver
+2021-09-02 11:45:03,867 [Worker-18: Updating Maven dependencies for project 'MD_Spring_ver'] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B eclipse:clean eclipse:eclipse
+2021-09-02 11:45:36,509 [Worker-8: Updating Maven dependencies for project 'MD_Spring_ver'] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\smart\eclipse-workspace.java\MD_Spring_ver
+2021-09-02 11:45:36,510 [Worker-8: Updating Maven dependencies for project 'MD_Spring_ver'] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B eclipse:clean eclipse:eclipse
+2021-09-02 11:46:50,107 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 11:46:50,339 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD_Spring_ver/src/main/java
+2021-09-02 11:46:50,340 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD_Spring_ver/src/test/java
+2021-09-02 11:46:50,630 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-02 11:46:50,835 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 11:46:50,965 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD_Spring_ver/src/main/java
+2021-09-02 11:46:50,966 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD_Spring_ver/src/test/java
+2021-09-02 11:46:51,096 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MD_Spring_ver
+2021-09-02 11:46:51,107 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-09-02 11:46:51,220 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:46:51,221 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:46:51,223 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:46:51,225 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:46:51,225 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 11:46:51,226 [Worker-15: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 11:46:51,239 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:47:46,287 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-09-02 11:47:46,472 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 11:47:46,544 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD_Spring_ver/src/main/java
+2021-09-02 11:47:46,544 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MD_Spring_ver/src/test/java
+2021-09-02 11:47:46,648 [Worker-23: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MD_Spring_ver
+2021-09-02 11:47:46,653 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2021-09-02 11:47:46,819 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:47:46,820 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:47:46,821 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:47:46,822 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:47:46,823 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 11:47:46,823 [Worker-23: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 11:47:46,827 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:49:07,797 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 11:49:07,874 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:49:07,875 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:49:07,876 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:49:07,877 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:49:07,877 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 11:49:07,878 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 11:49:07,880 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:49:16,212 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:49:16,214 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:49:16,215 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:49:16,216 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:50:04,118 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:50:04,119 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:50:04,120 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:50:04,122 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:55:11,898 [Worker-23: Cleaning selected projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for MD_Spring_ver
+2021-09-02 11:55:12,071 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:55:12,073 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:55:12,074 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:55:12,075 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:55:12,076 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 11:55:12,076 [Worker-25: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 11:55:12,089 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:56:00,005 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:56:00,006 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:56:00,008 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:56:00,009 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:57:46,091 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:57:46,091 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:57:46,092 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:57:46,093 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:57:57,898 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:57:57,899 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:57:57,900 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:57:57,901 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:59:28,511 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:59:28,512 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:59:28,513 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:59:28,514 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:59:33,449 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 11:59:33,582 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:59:33,582 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 11:59:33,583 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 11:59:33,583 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 11:59:33,585 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 11:59:33,585 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 11:59:33,587 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:01:00,518 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:01:00,520 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:01:00,520 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:01:00,521 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:01:10,786 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:01:10,787 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:01:10,788 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:01:10,789 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:02:48,299 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:02:48,300 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:02:48,301 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:02:48,303 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:03:52,537 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:03:52,538 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:03:52,540 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:03:52,541 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:04:00,552 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:04:00,553 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:04:00,554 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:04:00,555 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:04:16,938 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:04:16,939 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:04:16,940 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:04:16,941 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:04:24,294 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:04:24,295 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:04:24,296 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:04:24,297 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:04:56,105 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 12:04:56,265 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:04:56,266 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:04:56,267 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:04:56,268 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:04:56,268 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 12:04:56,268 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 12:04:56,271 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:05:16,389 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:05:16,390 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:05:16,391 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:05:16,392 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:05:47,194 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:05:47,195 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:05:47,197 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:05:47,198 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:06:03,214 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 12:06:03,331 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:06:03,333 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:06:03,334 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:06:03,335 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:06:03,335 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 12:06:03,335 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 12:06:03,336 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:07:31,696 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:07:31,697 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:07:31,697 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:07:31,699 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:07:49,876 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 12:07:49,991 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:07:49,993 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:07:49,993 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:07:49,994 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:07:49,995 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 12:07:49,995 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 12:07:49,999 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:08:09,963 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:08:09,964 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:08:09,965 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:08:09,966 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:09:45,453 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:09:45,456 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:09:45,458 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:09:45,459 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:10:47,460 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:10:47,461 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:10:47,462 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:10:47,463 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:10:50,529 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:10:50,531 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:10:50,532 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:10:50,533 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:10:57,463 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:10:57,464 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:10:57,465 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:10:57,467 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 12:11:17,587 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:11:17,588 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 12:11:17,589 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 12:11:17,589 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 13:34:41,380 [Worker-55: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 13:34:41,502 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:34:41,503 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 13:34:41,504 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:34:41,505 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 13:34:41,505 [Worker-55: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 13:34:41,505 [Worker-55: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 13:34:41,507 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:35:29,583 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MD_Spring_ver:MD_Spring_ver:0.0.1-SNAPSHOT @ C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\pom.xml.
+2021-09-02 13:35:29,845 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:35:29,846 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 13:35:29,846 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:35:29,847 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 13:35:29,848 [Worker-51: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MD_Spring_ver
+2021-09-02 13:35:29,848 [Worker-51: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MD_Spring_ver
+2021-09-02 13:35:29,850 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:51:48,285 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:51:48,286 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 13:51:48,287 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:51:48,287 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 13:52:50,498 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:52:50,499 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-09-02 13:52:50,500 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:52:50,501 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources
+2021-09-02 13:53:00,486 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:53:00,488 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 13:53:00,489 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 13:53:00,490 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 14:01:40,206 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 14:01:40,207 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 14:01:40,207 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 14:01:40,208 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 14:02:10,723 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 14:02:10,724 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 14:02:10,724 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 14:02:10,725 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 17:22:04,362 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-09-02 17:22:07,456 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 17:22:07,459 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\main\resources
+2021-09-02 17:22:07,460 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 17:22:07,463 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MD_Spring_ver\src\test\resources
+2021-09-02 17:22:08,269 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 17:22:08,270 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\main\resources
+2021-09-02 17:22:08,272 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-02 17:22:08,273 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\smart\eclipse-workspace.java\MoneyDiary\src\test\resources

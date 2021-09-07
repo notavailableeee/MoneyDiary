@@ -36,3 +36,28 @@
 6월 29, 2021 16:02:47.809 [3096:1488:0629/160247.809:ERROR:device_event_log_impl.cc(214)] [16:02:47.809] USB: usb_service_win.cc:389 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
 6월 29, 2021 16:02:47.810 [3096:1488:0629/160247.810:ERROR:device_event_log_impl.cc(214)] [16:02:47.810] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
 6월 29, 2021 16:02:47.811 [3096:1488:0629/160247.811:ERROR:device_event_log_impl.cc(214)] [16:02:47.811] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+9월 02, 2021 11:58:15.789 NEW SESSION
+9월 02, 2021 11:58:15.790 [13180:3184:0902/115815.786:ERROR:device_event_log_impl.cc(214)] [11:58:15.786] USB: usb_service_win.cc:389 Could not read device interface GUIDs: 지정된 파일을 찾을 수 없습니다. (0x2)
+9월 02, 2021 11:58:15.791 [13180:3184:0902/115815.787:ERROR:device_event_log_impl.cc(214)] [11:58:15.787] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+9월 02, 2021 11:58:15.846 [13180:9500:0902/115815.846:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 11:58:37.820 [13180:9500:0902/115837.820:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 11:59:26.617 [13180:9500:0902/115926.617:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 12:01:05.748 [13180:9500:0902/120105.746:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 12:04:06.383 [13180:9500:0902/120406.383:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 12:09:34.185 [13180:9500:0902/120934.185:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 12:19:34.188 [13180:9500:0902/121934.187:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 12:29:34.190 [13180:9500:0902/122934.189:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 13:29:43.414 [13180:9500:0902/132943.414:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+9월 02, 2021 13:32:36.336 [13180:3184:0902/133236.334:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+9월 02, 2021 13:32:36.337 [13180:3184:0902/133236.334:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot destructure property 'yt' of 'undefined' as it is undefined.
+9월 02, 2021 13:32:36.337     at chrome-extension://cmedhionkhpnakcndndgjdbohmhepckk/scripts/contentscript.js:535:6", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+9월 02, 2021 13:50:32.120 [13180:3184:0902/135032.119:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+9월 02, 2021 13:50:32.121 [13180:3184:0902/135032.119:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot destructure property 'yt' of 'undefined' as it is undefined.
+9월 02, 2021 13:50:32.121     at chrome-extension://cmedhionkhpnakcndndgjdbohmhepckk/scripts/contentscript.js:535:6", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+9월 02, 2021 14:09:18.535 [13180:3184:0902/140918.535:ERROR:device_event_log_impl.cc(214)] [14:09:18.534] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+9월 02, 2021 14:09:18.544 [13180:3184:0902/140918.543:ERROR:device_event_log_impl.cc(214)] [14:09:18.543] USB: usb_service_win.cc:281 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+9월 02, 2021 14:44:38.203 [13180:3184:0902/144438.202:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+9월 02, 2021 14:44:38.204 [13180:3184:0902/144438.202:ERROR:CONSOLE(0)] "Error handling response: TypeError: Cannot destructure property 'yt' of 'undefined' as it is undefined.
+9월 02, 2021 14:44:38.204     at chrome-extension://cmedhionkhpnakcndndgjdbohmhepckk/scripts/contentscript.js:535:6", source: https://ogs.google.com/u/0/widget/app?bc=1&origin=chrome-untrusted%3A%2F%2Fnew-tab-page&origin=chrome%3A%2F%2Fnew-tab-page&cn=app&pid=1&spid=243&hl=ko (0)
+9월 02, 2021 15:06:03.157 [13180:3184:0902/150603.156:ERROR:device_event_log_impl.cc(214)] [15:06:03.156] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)

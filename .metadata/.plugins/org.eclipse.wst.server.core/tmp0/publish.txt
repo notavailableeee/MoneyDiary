@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Tue Aug 17 15:14:06 KST 2021
+#Thu Sep 02 13:53:02 KST 2021
 org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\smart\\.m2\\repository\\org\\springframework\\spring-web\\5.2.16.RELEASE\\spring-web-5.2.16.RELEASE.jar=WEB-INF/lib/spring-web-5.2.16.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\smart\\.m2\\repository\\org\\springframework\\spring-web\\5.2.8.RELEASE\\spring-web-5.2.8.RELEASE.jar=WEB-INF/lib/spring-web-5.2.8.RELEASE.jar

@@ -2,11 +2,13 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="MD_Spring_ver"/>
 			<item value="MoneyDiary"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MD_Spring_ver"/>
 			<item value="MoneyDiary"/>
 		</list>
 		<list key="version">
@@ -16,5 +18,11 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="720"/>
+		<item key="y" value="166"/>
 	</section>
 </section>
